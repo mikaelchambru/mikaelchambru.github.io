@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Mikaël Chambru"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Maitre de conférences en sciences sociales
+  location         : "Grenoble / Chambéry"
+  employer         : "Université Grenoble Alpes"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mikael.chambru@univ-grenoble-alpes.fr" 
 
   # Academic websites
   academia         : # URL
