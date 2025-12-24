@@ -9,7 +9,7 @@ redirect_from:
 
 Je suis maitre de conférences en sciences sociales à l'[Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr) (UGA), enseignant à l'Institut de la communication et des médias (ICM) et chercheur au sein du [Groupe de recherche sur les enjeux de la communication](https://gresec.univ-grenoble-alpes.fr) (GRESEC). 
 
-I am an Associate Professor in Social Sciences at the UGA, teacher at ICM and researcher ate GRESEC.
+I am an Associate Professor in Social Sciences at the UGA, teacher at the ICM and researcher at the GRESEC.
 
 A data-driven personal website
 ======
