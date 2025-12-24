@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## A propos
 
 Je suis Maître de conférences en sciences sociales à l'[Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr) (UGA), enseignant à l'Institut de la communication et des médias (ICM) et chercheur au sein du [Groupe de recherche sur les enjeux de la communication](https://gresec.univ-grenoble-alpes.fr) (GRESEC). 
