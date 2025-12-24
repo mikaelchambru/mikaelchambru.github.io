@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+#About
 Je suis Maître de conférences en sciences sociales à l'[Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr) (UGA), enseignant à l'Institut de la communication et des médias (ICM) et chercheur au sein du [Groupe de recherche sur les enjeux de la communication](https://gresec.univ-grenoble-alpes.fr) (GRESEC). 
 
 Coordinateur scientifique du [Laboratoire d’excellence Innovation et transitions territoriales en montagne](https://labexittem.fr) (Labex ITTEM), je suis également animateur du [Groupe régional d’expertise sur le climat Alpes-Auvergne](https://grec-alpes-auvergne.osug.fr)(GREC-AA) rattaché à l'[Observatoire des sciences de l’univers de Grenoble](https://www.osug.fr) (OSUG) et responsable pédagogique du Master Communication et culture scientifiques et techniques (CCST) de l'UGA.
