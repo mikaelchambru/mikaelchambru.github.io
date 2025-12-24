@@ -32,20 +32,6 @@ author:
   uri              : # URL
   email            : "mikael.chambru@univ-grenoble-alpes.fr" 
 
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.fr/citations?user=rn4-4goAAAAJ&hl=fr&authuser=3"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0006-8076-7579"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -81,6 +67,21 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+# Academic websites
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.fr/citations?user=rn4-4goAAAAJ&hl=fr&authuser=3"
+  inspire-hep      : # URL
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0009-0006-8076-7579"
+  semantic         : # URL
+  ssrn             : # URL
+  pubmed           : # URL
+  researchgate     : # URL
+  scopus           : # URL
+  zotero           : # URL
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
