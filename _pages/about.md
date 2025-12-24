@@ -15,7 +15,3 @@ Mes recherches s’inscrivent dans le domaine de la sociologie de l’environnem
 1. Les controverses publiques et les mobilisations collectives sur la transition
 2. Les formes territorialisées de gestion et d’expertise des risques environnementaux
 3. Les processus d’écologisation des pratiques et de territorialisation des activités.
-
-A data-driven personal website
-======
-I am an Associate Professor in Social Sciences at the UGA, teacher at the ICM and researcher at the GRESEC. As scientific coordinator of the Labex ITTEM, I am also the facilitator of the GREC-AA attached to the OSUG and the academic director of the CCST Master's program at UGA.
