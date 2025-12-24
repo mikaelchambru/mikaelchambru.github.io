@@ -14,6 +14,7 @@ I am an Associate Professor in Social Sciences at the UGA, teacher at the ICM an
 A data-driven personal website
 ======
 Mes recherches s’inscrivent dans le domaine de la sociologie de l’environnement. J’étudie la manière dont la complexité des problèmes socio-environnementaux dans les territoires de montagne recomposent les rapports entre société et environnement. Elles se déploient selon trois perspectives analytiques : 
-1/ les controverses publiques et les mobilisations collectives sur la transition
-2/ les formes territorialisées de gestion et d’expertise des risques environnementaux
-3 les processus d’écologisation des pratiques et de territorialisation des activités.
+
+1. Les controverses publiques et les mobilisations collectives sur la transition
+2. les formes territorialisées de gestion et d’expertise des risques environnementaux
+3. les processus d’écologisation des pratiques et de territorialisation des activités.
