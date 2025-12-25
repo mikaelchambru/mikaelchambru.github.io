@@ -18,7 +18,7 @@ redirect_from:
 
 ## Ouvrage scientifique
 
-1. Chambru Mikaël, Lefebvre Muriel et Poupardin Elsa (dir.), *La communication des science. Vulgarisation, politisation, médiatisation*, Presses universitaires de Grenoble, 2025, 176p.
+1. Chambru Mikaël, Lefebvre Muriel et Poupardin Elsa (dir.), *La communication des sciences. Vulgarisation, politisation, médiatisation*, Presses universitaires de Grenoble, 2025, 176p.
 2. Bodin Xavier, Chambru Mikaël et Ibanez Sébastien (dir), *Glacier de la Girose, versant sensible*, Le Naturographe, 2024, 176p. [hal-04774149](https://hal.science/hal-04774149)
 
 ## Article dans une revue à comité de lecture
