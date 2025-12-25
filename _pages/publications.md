@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /publication/
+title: "Publication"
 author_profile: true
 redirect_from: 
 - publications.html  
