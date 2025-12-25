@@ -5,22 +5,6 @@ author_profile: true
 redirect_from: 
 - publications.html  
 ---
-
-## Dossier dans une revue à comité de lecture
-
-1. Chambru Mikaël et De Oliveira Jean-Philippe (dir.), « La communication à l’épreuve des risques : questions empiriques et enjeux épistémologiques », *Études de communication*, 64, 2025.
-2. Bordeaux Marie-Christine et Chambru Mikaël (dir.), « Enjeux publics de la médiatisation des sciences », *Les enjeux de l’information et de la communication*, 25-2, 2025.
-3. Bordeaux Marie-Christine et Chambru Mikaël (dir.), « Dynamiques organisationnelles et professionnelles de la médiation scientifique », *Les enjeux de l’information et de la communication*, 25-1, 2025.
-4. Chambru Mikaël, Cambone Marie, Lachello Raphaël et Mouret Emma-Sophie (dir.), « Encore une transition ? Conflits et trajectoires des territoires de montagne face aux changements socio-environnementaux », *Journal of Alpine Research - Revue de géographie alpine*, 112-1, 2024. [hal-04546051](https://hal.science/hal-04546051)
-5. Chambru Mikaël, Claeys Cécilia et Lewis Nathalie (dir.), « La mise en tourisme de la culture scientifique en montagne : défis et enjeux pour des territoires en transition », *Journal of Alpine Research - Revue de géographie alpine*, 10-1, 2022. [hal-03677911](https://hal.archives-ouvertes.fr/hal-03677911)
-6. Chambru Mikaël (dir.), « Les controverses publiques autour des sciences : frontières, conflictualités et problèmes publics », *Les enjeux de l’information et de la communication*, 22/4, 2021. [hal-03620635](https://hal.archives-ouvertes.fr/hal-03620635)
-7. Bodin Cyrille et Chambru Mikaël (dir.), « Fake news ! Pouvoirs et conflits autour de l’énonciation publique du ‘‘vrai’’ », *Études de communication*, 53, 2019. [hal-02375421](https://hal.archives-ouvertes.fr/hal-02375421)
-
-## Ouvrage scientifique
-
-1. Chambru Mikaël, Lefebvre Muriel et Poupardin Elsa (dir.), *La communication des sciences. Vulgarisation, politisation, médiatisation*, Presses universitaires de Grenoble, 2025, 176p.
-2. Bodin Xavier, Chambru Mikaël et Ibanez Sébastien (dir), *Glacier de la Girose, versant sensible*, Le Naturographe, 2024, 176p. [hal-04774149](https://hal.science/hal-04774149)
-
 ## Article dans une revue à comité de lecture
 
 1. Chambru Mikaël, « Les temporalités de la transition touristique en montagne : controverse, incommunication et délibération », *Hermès*, 96, 2025, 148-153.
@@ -38,6 +22,16 @@ redirect_from:
 13. Chambru Mikaël, « La critique du régime technopolitique des sciences par la mouvance antinucléaire : un éclairage sur le concept d’espace public oppositionnel », *Les Enjeux de l’information et de la communication*, 16-3A, 2015, 29-38. [hal-01358105](https://hal.archives-ouvertes.fr/hal-01358105)
 14. Chambru Mikaël, « L’espace public à l’épreuve du phénomène antinucléaire en France (1962-2012) », *ESSACHESS – Journal for Communication Studies*, 7-13, 2014, 33-43. [hal-01186666](https://hal.univ-grenoble-alpes.fr/hal-01186666)
 
+## Dossier dans une revue à comité de lecture
+
+1. Chambru Mikaël et De Oliveira Jean-Philippe (dir.), « La communication à l’épreuve des risques : questions empiriques et enjeux épistémologiques », *Études de communication*, 64, 2025.
+2. Bordeaux Marie-Christine et Chambru Mikaël (dir.), « Enjeux publics de la médiatisation des sciences », *Les enjeux de l’information et de la communication*, 25-2, 2025.
+3. Bordeaux Marie-Christine et Chambru Mikaël (dir.), « Dynamiques organisationnelles et professionnelles de la médiation scientifique », *Les enjeux de l’information et de la communication*, 25-1, 2025.
+4. Chambru Mikaël, Cambone Marie, Lachello Raphaël et Mouret Emma-Sophie (dir.), « Encore une transition ? Conflits et trajectoires des territoires de montagne face aux changements socio-environnementaux », *Journal of Alpine Research - Revue de géographie alpine*, 112-1, 2024. [hal-04546051](https://hal.science/hal-04546051)
+5. Chambru Mikaël, Claeys Cécilia et Lewis Nathalie (dir.), « La mise en tourisme de la culture scientifique en montagne : défis et enjeux pour des territoires en transition », *Journal of Alpine Research - Revue de géographie alpine*, 10-1, 2022. [hal-03677911](https://hal.archives-ouvertes.fr/hal-03677911)
+6. Chambru Mikaël (dir.), « Les controverses publiques autour des sciences : frontières, conflictualités et problèmes publics », *Les enjeux de l’information et de la communication*, 22/4, 2021. [hal-03620635](https://hal.archives-ouvertes.fr/hal-03620635)
+7. Bodin Cyrille et Chambru Mikaël (dir.), « Fake news ! Pouvoirs et conflits autour de l’énonciation publique du ‘‘vrai’’ », *Études de communication*, 53, 2019. [hal-02375421](https://hal.archives-ouvertes.fr/hal-02375421)
+
 ## Chapitre d'ouvrage scientifique
 
 1. Chambru Mikaël et Claeys Cécilia, « La montagne au-delà du tourisme : enjeux de transitions dans une haute vallée alpine (Queyras, France) » in *Habiter la montagne aujourd'hui. Réseaux ferroviaires et dynamiques citoyennes en débat*  (dir. Bertoni Angelo et Zaza Ornella), Presses universitaires de Grenoble, 2025, 231-245.
@@ -54,6 +48,11 @@ redirect_from:
 12. Chambru Mikaël, « Les temporalités des espaces publics oppositionnels : mouvements sociaux et enquête multi-située », in *Temps et temporalités en information-communication : des concepts aux méthodes* (dir. Domenget Jean-Claude et al.), L’Harmattan / Société française des sciences de l’information et de la communication, 2017, 75-84. [hal-01536104](https://hal.archives-ouvertes.fr/hal-01536104)
 13. Chambru Mikaël, « La protestation antinucléaire autour de Superphénix. Une analyse des dynamiques d’un espace public oppositionnel transnational », in *L’espace public européen en question. Histoire et méthodologie* (dir. Doria Corine et Raulet Gérard), Peter Lang Edition, 2016, 193-210. [hal-01359769](https://hal.archives-ouvertes.fr/hal-01359769)
 14. Chambru Mikaël, « Publiciser le risque nucléaire. Un engagement politique singulier et multiple au sein de l’espace public », in *Le risque* (dir. Tripier Fabien), L’Harmattan, 2013, 129-142.
+
+## Ouvrage scientifique
+
+1. Chambru Mikaël, Lefebvre Muriel et Poupardin Elsa (dir.), *La communication des sciences. Vulgarisation, politisation, médiatisation*, Presses universitaires de Grenoble, 2025, 176p.
+2. Bodin Xavier, Chambru Mikaël et Ibanez Sébastien (dir), *Glacier de la Girose, versant sensible*, Le Naturographe, 2024, 176p. [hal-04774149](https://hal.science/hal-04774149)
 
 ## Article dans une autre revue
 
