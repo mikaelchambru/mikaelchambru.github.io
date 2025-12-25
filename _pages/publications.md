@@ -6,4 +6,5 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
-## A propos
+## Publications
+### Articles dans une revue à comité de lecture
