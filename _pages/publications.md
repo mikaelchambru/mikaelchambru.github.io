@@ -6,6 +6,16 @@ redirect_from:
 - publications.html  
 ---
 
+## Dossier dans une revue à comité de lecture
+
+1. Chambru Mikaël et De Oliveira Jean-Philippe (dir.), « La communication à l’épreuve des risques : questions empiriques et enjeux épistémologiques », *Études de communication*, 64, 2025.
+2. Bordeaux Marie-Christine et Chambru Mikaël (dir.), « Enjeux publics de la médiatisation des sciences », *Les enjeux de l’information et de la communication*, 25-2, 2025.
+3. Bordeaux Marie-Christine et Chambru Mikaël (dir.), « Dynamiques organisationnelles et professionnelles de la médiation scientifique », *Les enjeux de l’information et de la communication*, 25-1, 2025.
+4. Chambru Mikaël, Cambone Marie, Lachello Raphaël et Mouret Emma-Sophie (dir.), « Encore une transition ? Conflits et trajectoires des territoires de montagne face aux changements socio-environnementaux », *Journal of Alpine Research - Revue de géographie alpine*, 112-1, 2024. [hal-04546051](https://hal.science/hal-04546051)
+5. Chambru Mikaël, Claeys Cécilia et Lewis Nathalie (dir.), « La mise en tourisme de la culture scientifique en montagne : défis et enjeux pour des territoires en transition », *Journal of Alpine Research - Revue de géographie alpine*, 10-1, 2022. [hal-03677911](https://hal.archives-ouvertes.fr/hal-03677911)
+6. Chambru Mikaël (dir.), « Les controverses publiques autour des sciences : frontières, conflictualités et problèmes publics », *Les enjeux de l’information et de la communication*, 22/4, 2021. [hal-03620635](https://hal.archives-ouvertes.fr/hal-03620635)
+7. Bodin Cyrille et Chambru Mikaël (dir.), « Fake news ! Pouvoirs et conflits autour de l’énonciation publique du ‘‘vrai’’ », *Études de communication*, 53, 2019. [hal-02375421](https://hal.archives-ouvertes.fr/hal-02375421)
+
 ## Article dans une revue à comité de lecture
 
 1. Chambru Mikaël, « Les temporalités de la transition touristique en montagne : controverse, incommunication et délibération », *Hermès*, 96, 2025, 148-153.
