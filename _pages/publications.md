@@ -1,10 +1,10 @@
 ---
-permalink: 
+permalink: publications.html
 title: ""
 author_profile: true
 redirect_from: 
   - /publications/
-  - /publications.hmtl
+  - /publications.html
  
 ---
 ## Publications
