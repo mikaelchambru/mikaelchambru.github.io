@@ -6,7 +6,7 @@ redirect_from:
 - publications.html  
 ---
 
-# Dossier dans une revue à comité de lecture
+## Dossier dans une revue à comité de lecture
 
 1. Chambru Mikaël et De Oliveira Jean-Philippe (dir.), « La communication à l’épreuve des risques : questions empiriques et enjeux épistémologiques », *Études de communication*, 64, 2025.
 2. Bordeaux Marie-Christine et Chambru Mikaël (dir.), « Enjeux publics de la médiatisation des sciences », *Les enjeux de l’information et de la communication*, 25-2, 2025.
@@ -16,12 +16,12 @@ redirect_from:
 6. Chambru Mikaël (dir.), « Les controverses publiques autour des sciences : frontières, conflictualités et problèmes publics », *Les enjeux de l’information et de la communication*, 22/4, 2021. [hal-03620635](https://hal.archives-ouvertes.fr/hal-03620635)
 7. Bodin Cyrille et Chambru Mikaël (dir.), « Fake news ! Pouvoirs et conflits autour de l’énonciation publique du ‘‘vrai’’ », *Études de communication*, 53, 2019. [hal-02375421](https://hal.archives-ouvertes.fr/hal-02375421)
 
-# Ouvrage scientifique
+## Ouvrage scientifique
 
 1. Chambru Mikaël, Lefebvre Muriel et Poupardin Elsa (dir.), *La communication des science. Vulgarisation, politisation, médiatisation*, Presses universitaires de Grenoble, 2025, 176p.
 2. Bodin Xavier, Chambru Mikaël et Ibanez Sébastien (dir), *Glacier de la Girose, versant sensible*, Le Naturographe, 2024, 176p. [hal-04774149](https://hal.science/hal-04774149)
 
-# Article dans une revue à comité de lecture
+## Article dans une revue à comité de lecture
 
 1. Chambru Mikaël, « Les temporalités de la transition touristique en montagne : controverse, incommunication et délibération », *Hermès*, 96, 2025, 148-153.
 2. Chambru Mikaël et Picard Marion, « Faire bifurquer le tourisme hivernal ? Controverses et mobilisations socio-environnementales autour de la transition écologique dans une station alpine (La Clusaz, France) », *Mondes du Tourisme*, 25, 2024. [hal-04846118](https://hal.science/hal-04846118v1)
@@ -38,7 +38,7 @@ redirect_from:
 13. Chambru Mikaël, « La critique du régime technopolitique des sciences par la mouvance antinucléaire : un éclairage sur le concept d’espace public oppositionnel », *Les Enjeux de l’information et de la communication*, 16-3A, 2015, 29-38. [hal-01358105](https://hal.archives-ouvertes.fr/hal-01358105)
 14. Chambru Mikaël, « L’espace public à l’épreuve du phénomène antinucléaire en France (1962-2012) », *ESSACHESS – Journal for Communication Studies*, 7-13, 2014, 33-43. [hal-01186666](https://hal.univ-grenoble-alpes.fr/hal-01186666)
 
-# Chapitre d'ouvrage scientifique
+## Chapitre d'ouvrage scientifique
 
 1. Chambru Mikaël et Claeys Cécilia, « La montagne au-delà du tourisme : enjeux de transitions dans une haute vallée alpine (Queyras, France) » in *Habiter la montagne aujourd'hui. Réseaux ferroviaires et dynamiques citoyennes en débat*  (dir. Bertoni Angelo et Zaza Ornella), Presses universitaires de Grenoble, 2025, 231-245.
 2. Chambru Mikaël, « Un glacier et deux montagnes irréconciliables ? », in *Glacier de la Girose, versant sensible* (dir. Bobin Xavier, Chambru Mikaël et Ibanez Sébastien), Le Naturographe, 2024, 92-103.
@@ -55,7 +55,7 @@ redirect_from:
 13. Chambru Mikaël, « La protestation antinucléaire autour de Superphénix. Une analyse des dynamiques d’un espace public oppositionnel transnational », in *L’espace public européen en question. Histoire et méthodologie* (dir. Doria Corine et Raulet Gérard), Peter Lang Edition, 2016, 193-210. [hal-01359769](https://hal.archives-ouvertes.fr/hal-01359769)
 14. Chambru Mikaël, « Publiciser le risque nucléaire. Un engagement politique singulier et multiple au sein de l’espace public », in *Le risque* (dir. Tripier Fabien), L’Harmattan, 2013, 129-142.
 
-# Article dans une autre revue
+## Article dans une autre revue
 
 1. Grison Jean-Baptiste, Chambru Mikaël, Béraud Luc et al. « Les scientifiques au cœur des controverses en montagne : quelle place pour l’engagement ? », *Journal of Alpine Research - Revue de géographie alpine*, Transitions, 2025. 
 2. Chambru Mikaël, Koop Kirsten et Grison Jean-Baptiste, « Les territoires de montagne ne doivent pas être résumés à la montagne alpine aménagée », *Horizons publics*, 44, mars-avril 2025, 78-87.
