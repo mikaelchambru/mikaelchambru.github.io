@@ -42,10 +42,10 @@ redirect_from:
 
 # Article dans une autre revue
 
-1. Grison Jean-Baptiste, Chambru Mikaël, Béraud Luc et al. « Les scientifiques au cœur des controverses en montagne : quelle place pour l’engagement ? », *Journal of Alpine Research | Revue de géographie alpine*, Transitions, 2025. 
+1. Grison Jean-Baptiste, Chambru Mikaël, Béraud Luc et al. « Les scientifiques au cœur des controverses en montagne : quelle place pour l’engagement ? », *Journal of Alpine Research - Revue de géographie alpine*, Transitions, 2025. 
 2. Chambru Mikaël, Koop Kirsten et Grison Jean-Baptiste, « Les territoires de montagne ne doivent pas être résumés à la montagne alpine aménagée », *Horizons publics*, 44, mars-avril 2025, 78-87.
 3. Chambru Mikaël, Grison Jean-Baptiste et Lachello Raphaël, « Sortir des sentiers battus : faire de la médiation scientifique en montagne », *La Lettre de l’OCIM : musées, patrimoine et culture scientifiques et techniques*, juillet 2023, 206, 74-83. [halshs-04511552](https://shs.hal.science/halshs-04511552)
-4. Chambru Mikaël, « L’alpage du Champet : arpenter la montagne pour repenser la médiation scientifique », *Journal of Alpine Research | Revue de géographie alpine*, Lieux-dits, 2021. [hal-03261720](https://hal.archives-ouvertes.fr/hal-03261720)
+4. Chambru Mikaël, « L’alpage du Champet : arpenter la montagne pour repenser la médiation scientifique », *Journal of Alpine Research - Revue de géographie alpine*, Lieux-dits, 2021. [hal-03261720](https://hal.archives-ouvertes.fr/hal-03261720)
 5. Bordeaux Marie-Christine et Chambru Mikaël, « L’université, des liens à construire entre sciences et citoyens : évidence ou défi ? », *Horizons publics*, hors-série printemps 2020, 38-43. [hal-04580225](https://hal.science/hal-04580225)
 6. Chambru Mikaël, « L’évolution des dissonances du syndicalisme français aux prises avec l’énergie électronucléaire et sa critique sociale », *Mouvements : des idées et des luttes*, 80, 2014, 67-77. [hal-01358141](https://hal.archives-ouvertes.fr/hal-01358141)
 7. Chambru Mikaël, « Valognes Stop Castor, continuité ou rupture des pratiques militantes antinucléaires ? », *Revue des livres*, 5, mai-juin 2012, 74-99.
