@@ -12,7 +12,7 @@ redirect_from:
 ## Principales fonctions actuelles
 * Coordinnateur scientifique du [Laboratoire d’excellence Innovation et transitions territoriales en montagne](https://labexittem.fr) (Labex ITTEM), depuis 2022.
 * Responsable pédagogique du Master Communication et culture scientifiques et techniques (CCST), depuis 2017.
-* Animateur du [Groupe régional d’expertise sur le climat Alpes-Auvergne](https://grec-alpes-auvergne.osug.fr)(GREC-AA), depuis 2025.
+* Animateur du [Groupe régional d’expertise sur le climat Alpes-Auvergne](https://grec-alpes-auvergne.osug.fr) (GREC-AA), depuis 2025.
 * Directeur des études de la mention de master information-communication, 7 masters, depuis 2025.
 
 ## Parcours académique
