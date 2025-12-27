@@ -9,18 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-* Maître de conférences en sciences sociales, Université Grenoble Alpes, depuis 2017.
+## Parcous académique
+* Depuis 2017 : Maître de conférences en sciences sociales, Université Grenoble Alpes.
+* 2016 - 2017 : Enseignant-vacataire à l'IUT de Chambéry, Université Savoie Mont Blanc.
+* 2012 - 2016 : Attaché temporaire d'enseignement et de recherche à l'Ecole de journalisme de Grenoble, IEP de Grenoble / Université Stendhal.
+* 2019 - 2012 : Doctorant contractuel enseignant, Université Stendhal.
 
-## Formatio,
-
-* Doctorat en sciences de l'information et de la communication, Université Grenoble Alpes, 2014. 
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-## Work experience
-
-* 2012 - 2016 : Attaché temporaire d'enseignement et de recherche
-  * Ecole de journalisme de Grenoble, IEP de Grenoble / Université Stendhal 
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
