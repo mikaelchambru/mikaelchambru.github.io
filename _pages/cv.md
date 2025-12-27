@@ -15,7 +15,7 @@ Télécharger mon CV académique complet.
 * Responsable pédagogique du Master Communication et culture scientifiques et techniques (CCST), depuis 2017.
 * Directeur des études de la mention de master information-communication, 7 masters, depuis 2025.
 
-## Parcours académique
+## Parcours professionnel
 * Maître de conférences à l'Institut de la communication et des médias, Université Grenoble Alpes, depuis 2017.
 * Enseignant-vacataire à l'IUT de Chambéry, Université Savoie Mont Blanc, 2016-2017.
 * Attaché temporaire d'enseignement et de recherche à l'Ecole de journalisme de Grenoble, IEP de Grenoble / Université Stendhal, 2012-2016.
