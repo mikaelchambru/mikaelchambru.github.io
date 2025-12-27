@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Télécharger mon CV académique complet.
 
 ## Principales fonctions actuelles
 * Coordinnateur scientifique du [Laboratoire d’excellence Innovation et transitions territoriales en montagne](https://labexittem.fr) (Labex ITTEM), depuis 2022.
