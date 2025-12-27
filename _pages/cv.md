@@ -16,5 +16,6 @@ redirect_from:
 * Doctorant contractuel enseignant, Université Stendhal, 2009-2012.
 
 ## Formation
-* Doctorat en sciences de l'information et de la communication, Université de Grenoble, 2014.
-* 
+* Doctorat en sciences de l'information et de la communication, Université de Grenoble, 2014. 
+  * *Communication, délibération et mouvements sociaux : L’espace public à l’épreuve du phénomène antinucléaire en France (1962-2012).*  [tel-01327929](https://theses.hal.science/tel-01327929)
+  * Soutenu devant un jury composé de Lilian Mathieu, directeur de recherche en sociologie (ENS Lyon), Stéphane Olivesi, professeur en SIC (Université de Versailles Saint-Quentin-en-Yvelines), Marie-Gabrielle Suraud, professeure en SIC (Université Paul Sabatier Toulouse 3), Isabelle Pailliart, professeure en SIC (Université Stendhal) et Bertrand Cabedoche, professeur en SIC (Université Stendhal).
