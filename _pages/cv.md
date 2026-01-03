@@ -13,7 +13,7 @@ Télécharger mon CV académique complet.
 * Coordinnateur scientifique du [Laboratoire d’excellence Innovation et transitions territoriales en montagne](https://labexittem.fr) (Labex ITTEM), depuis 2022.
 * Responsable scientifique de la [Chaire de recherche partenariale Forêts alpines en transition](https://foretalpine.hypotheses.org), Fondation Université Grenoble Alpes, depuis 2023.
 * Animateur du [Groupe régional d’expertise sur le climat Alpes-Auvergne](https://grec-alpes-auvergne.osug.fr) (GREC-AA), depuis 2025.
-* Responsable pédagogique du Master Communication et culture scientifiques et techniques (CCST), depuis 2017.
+* Responsable pédagogique du Master Communication et culture scientifiques et techniques (CCST), M1 et M2 depuis 2017.
 * Directeur des études de la mention de master information-communication, 7 masters M1 et M2, depuis 2019.
 
 ## Parcours professionnel
