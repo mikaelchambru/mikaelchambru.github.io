@@ -82,4 +82,11 @@ Republié dans *[Le Courrier](https://lecourrier.ch/2022/01/09/quand-la-zad-gagn
 
 ## Spectacle vivant
 
-1. *Entre nous, les saisons*, compagnie MPDA, 2023 - 2025. Conception et mise en scène d’Alexandra Lacroix, direction musicale de Camille Delaforge, dramaturgie de Raphaëlle Blin.
+1. *Entre nous, les saisons*, compagnie MPDA, 2023 - 2025. Conception et mise en scène d’Alexandra Lacroix, direction musicale de Camille Delaforge, dramaturgie de Raphaëlle Blin
+
+## Projet pédagogique dans le secondaire
+
+1. *La forêt, enjeux et défis socio-environnementaux en Maurienne*, Lycée de Saint-de-Maurienne (Savoie), 2024 - 2025.   
+2. *Faire de la sociologie de l'environnement en haute montagne*, Lycée de Saint-de-Maurienne (Savoie), printemps 2024.
+3. *La controverse autour des projets de carrière de gypse en Haute-Maurienne*, Collège de Modane (Savoie), automne 2023.
+4.  *La controverse autour du projet de nouvelle ligne ferroviaire Lyon-Turin*, Collège de Chambéry-le-Haut (Savoie), automne 2022.
