@@ -9,7 +9,7 @@ redirect_from:
 
 1. Borgnet Yann et Chambru Mikaël, [*Transition : un raid anthropologique dans le Queyras*](https://www.youtube.com/watch?v=RJzJYf6o3_4), film de 32 minutes, 2023. Produit par Alpine Lines et Labex ITTEM, avec la participation de CNRS Images, MSH-Alpes, Université Grenoble Alpes.
 
-> Diffusion à l’occasion du *Xplore Alpes festival, le festival de la montagne* 23 et 28 octobre 2023 à Bourg-Saint-Maurice (Savoie), du *La Trace, festival international du film de ski de rando*, 14 avril 2025 à Thônes (Haute-Savoie) et dans le cadre de la saison 2 de la *Voix des glaciers*, festival de film de montagne itinérant visant à ouvrir le débat sur les territoires de montagnes et les changements vers lesquels transiter pour répondre aux enjeux écologique, entre novembre 2023 et juin 2024.
+> Diffusion à l’occasion du *Xplore Alpes festival, le festival de la montagne* 23 et 28 octobre 2023 à Bourg-Saint-Maurice (Savoie), du *La Trace, festival international du film de ski de rando*, 14 avril 2025 à Thônes (Haute-Savoie) et dans le cadre de la saison 2 de la *Voix des glaciers*, festival de film de montagne itinérant, entre novembre 2023 et juin 2024.
 
 > 46 projection-débats réalisés en France entre octobre 2023 et octobre 2024 + diffusion sur la plateforme de streaming vidéo sport & aventure *Uptrack*.
 
