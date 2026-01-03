@@ -12,9 +12,9 @@ main:
     url: /publications/
 
   - title: "Communication"
-    url: /talks/  
+    url: /talks/
     
- - title: "Médiation"
+  - title: "Médiation"
     url: /mediation/
 
 
