@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Communnication"
+title: "Communication"
 author_profile: true
 redirect_from: 
 - communications.html  
