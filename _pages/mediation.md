@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /mediation/
 title: "Médiation"
 author_profile: true
