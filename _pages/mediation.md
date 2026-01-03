@@ -9,13 +9,9 @@ redirect_from:
 
 1. Borgnet Yann et Chambru Mikaël, [*Transition : un raid anthropologique dans le Queyras*](https://www.youtube.com/watch?v=RJzJYf6o3_4), film de 32 minutes, 2023. Produit par Alpine Lines et Labex ITTEM, avec la participation de CNRS Images, MSH-Alpes, Université Grenoble Alpes.
 
->- Diffusion à l’occasion du *Xplore Alpes festival, le festival de la montagne* 23 et 28 octobre 2023 à Bourg-Saint-Maurice (Savoie) et du *La Trace, festival international du film de ski de rando*, 14 avril 2025 à Thônes (Haute-Savoie).
+> Diffusion à l’occasion du *Xplore Alpes festival, le festival de la montagne* 23 et 28 octobre 2023 à Bourg-Saint-Maurice (Savoie), du *La Trace, festival international du film de ski de rando*, 14 avril 2025 à Thônes (Haute-Savoie) et dans le cadre de la saison 2 de la *Voix des glaciers*, festival de film de montagne itinérant visant à ouvrir le débat sur les territoires de montagnes et les changements vers lesquels transiter pour répondre aux enjeux écologique, entre novembre 2023 et juin 2024.
 
->- Diffusé dans le cadre de la saison 2 de la *Voix des glaciers*, festival de film de montagne itinérant visant à ouvrir le débat sur les territoires de montagnes et les changements vers lesquels transiter pour répondre aux enjeux écologique, entre novembre 2023 et juin 2024.
-
->- 46 projection-débats réalisés en France entre octobre 2023 et octobre 2024.
-
->- Diffusé sur la plateforme de streaming vidéo sport & aventure *Uptrack*.
+> 46 projection-débats réalisés en France entre octobre 2023 et octobre 2024 + diffusion sur la plateforme de streaming vidéo sport & aventure *Uptrack*.
 
 ## Article de vulgarisation
 
@@ -86,16 +82,9 @@ redirect_from:
 ## Animation d'émission sur Twitch
 
 1. *Chercheur-es en doudoune*, 6 février 2024.
->Produit par la MSHA et diffusé par la chaîne Chercheur-e-s de montagnes, ce stream événementiel de vulgarisation scientifique In Real Life (IRL) de 11h non-stop fait découvrir la diversité de la recherche grenobloise en sciences humaines et sociales (avec Raphaël Lachello).
-
 2. *Dré dans l’info !*, 2022 - 2023.
->Produit et diffusé par la chaîne Chercheurs de montagnes, ce stream mensuel analyse pendant 2h30 l’actualité montagne à travers le regard croisé d’un sociologue et d’une journaliste (avec Pauline Boulet).
-
 3. *Projet Céleste*, 20 au 24 juin 2023.
->Produit et diffusé par la chaîne Chercheurs de montagnes, une équipe de quatre chercheurs de l'UGA accompagne la streameuse *Angle Droit* (top 15 national en terme d’audience) pour une randonnée itinérante de quatre jours dans le Parc national de la Vanoise afin de faire de la vulgarisation scientifique sur le changement climatique. Il s'agit de réalisé un des « Donation Goals » d'*Angle Droit* de l'édition 2022 du marathon caritatif *Z Event* dont la thématique était l'écologie (avec Raphaël Lachello, Nicolas Ellaume et Perle Charlot).
-   
 4. *La ligue des chercheur-e-s et des sciences (LCS)*, 1er et 2 décembre 2022.
->Produit et diffusé par la chaîne Chercheurs de montagnes avec l’appui du Labex ITTEM et la MSHA, ce stream événementiel de deux jours commente et analyse *in situ* un colloque scientifique international sur les transitions en montagne à la façon d’une compétition d’e-sport (avec Raphaël Lachello, avec la participation d’Enora Bruley, Emma-Sophie Mouret et Emmanuel Salim).
 
 ### Spectacle vivant
 
