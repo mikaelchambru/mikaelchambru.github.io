@@ -86,20 +86,16 @@ redirect_from:
 ## Animation d'émission sur Twitch
 
 1. *Chercheur-es en doudoune*, 6 février 2024.
-
->>Produit par la MSHA et diffusé par la chaîne Chercheur-e-s de montagnes, ce stream événementiel de vulgarisation scientifique In Real Life (IRL) de 11h non-stop fait découvrir la diversité de la recherche grenobloise en sciences humaines et sociales (avec Raphaël Lachello).
+>Produit par la MSHA et diffusé par la chaîne Chercheur-e-s de montagnes, ce stream événementiel de vulgarisation scientifique In Real Life (IRL) de 11h non-stop fait découvrir la diversité de la recherche grenobloise en sciences humaines et sociales (avec Raphaël Lachello).
 
 2. *Dré dans l’info !*, 2022 - 2023.
-
->>Produit et diffusé par la chaîne Chercheurs de montagnes, ce stream mensuel analyse pendant 2h30 l’actualité montagne à travers le regard croisé d’un sociologue et d’une journaliste (avec Pauline Boulet).
+>Produit et diffusé par la chaîne Chercheurs de montagnes, ce stream mensuel analyse pendant 2h30 l’actualité montagne à travers le regard croisé d’un sociologue et d’une journaliste (avec Pauline Boulet).
 
 3. *Projet Céleste*, 20 au 24 juin 2023.
-
->>Produit et diffusé par la chaîne Chercheurs de montagnes, une équipe de quatre chercheurs de l'UGA accompagne la streameuse *Angle Droit* (top 15 national en terme d’audience) pour une randonnée itinérante de quatre jours dans le Parc national de la Vanoise afin de faire de la vulgarisation scientifique sur le changement climatique. Il s'agit de réalisé un des « Donation Goals » d'*Angle Droit* de l'édition 2022 du marathon caritatif *Z Event* dont la thématique était l'écologie (avec Raphaël Lachello, Nicolas Ellaume et Perle Charlot).
+>Produit et diffusé par la chaîne Chercheurs de montagnes, une équipe de quatre chercheurs de l'UGA accompagne la streameuse *Angle Droit* (top 15 national en terme d’audience) pour une randonnée itinérante de quatre jours dans le Parc national de la Vanoise afin de faire de la vulgarisation scientifique sur le changement climatique. Il s'agit de réalisé un des « Donation Goals » d'*Angle Droit* de l'édition 2022 du marathon caritatif *Z Event* dont la thématique était l'écologie (avec Raphaël Lachello, Nicolas Ellaume et Perle Charlot).
    
 4. *La ligue des chercheur-e-s et des sciences (LCS)*, 1er et 2 décembre 2022.
-
->>Produit et diffusé par la chaîne Chercheurs de montagnes avec l’appui du Labex ITTEM et la MSHA, ce stream événementiel de deux jours commente et analyse *in situ* un colloque scientifique international sur les transitions en montagne à la façon d’une compétition d’e-sport (avec Raphaël Lachello, avec la participation d’Enora Bruley, Emma-Sophie Mouret et Emmanuel Salim).
+>Produit et diffusé par la chaîne Chercheurs de montagnes avec l’appui du Labex ITTEM et la MSHA, ce stream événementiel de deux jours commente et analyse *in situ* un colloque scientifique international sur les transitions en montagne à la façon d’une compétition d’e-sport (avec Raphaël Lachello, avec la participation d’Enora Bruley, Emma-Sophie Mouret et Emmanuel Salim).
 
 ### Spectacle vivant
 
