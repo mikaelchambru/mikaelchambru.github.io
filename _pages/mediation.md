@@ -17,7 +17,7 @@ redirect_from:
 
 >- Diffusé sur la plateforme de streaming vidéo sport & aventure *Uptrack*.
 
-## Articles de vulgarisation
+## Article de vulgarisation
 
 1. Chambru Mikaël et Claeys Cécilia, « Une bifurcation touristique pour une transition socio-environnementale des Alpes du Sud », Cahiers du Grec-Sud *Les sociétés face aux bouleversements climatiques. Penser ces changements en région Provence-Alpes-Côte d’Azur*, novembre 2024.
 2. Chambru Mikaël, « [“Plus haute ZAD d’Europe” : faut-il encore aménager les glaciers alpins ?](https://theconversation.com/plus-haute-zad-deurope-faut-il-encore-amenager-les-glaciers-alpins-216918) », *The Conversation*, 5 novembre 2023.
@@ -82,3 +82,25 @@ redirect_from:
 34. « Par quelle voie sortir du nucléaire ? », Forum-débat, *Festival des libertés*, Bruxelles, 25 octobre 2012.
 35. « Quelles conditions pour que des échanges entre chercheurs et acteurs de la société civile aboutissent à des projets de recherche participative », Atelier-scénario, Adreca & fondation Sciences citoyennes, Saint-Martin d’Hères, 27 et 28 juin 2011.
 36. « Les médias : vecteurs d’expression, vecteurs de représentation », *Université européenne de l’engagement : (re)Trouver la capacité d’agir*, Association de la fondation étudiante pour la ville (Afev), Université Claude Bernard Lyon 1, Lyon, 24 août 2011.
+
+## Animation d'émission sur Twitch
+
+1. *Chercheur-es en doudoune*, 6 février 2024.
+
+>>Produit par la MSHA et diffusé par la chaîne Chercheur-e-s de montagnes, ce stream événementiel de vulgarisation scientifique In Real Life (IRL) de 11h non-stop fait découvrir la diversité de la recherche grenobloise en sciences humaines et sociales (avec Raphaël Lachello).
+
+2. *Dré dans l’info !*, 2022 - 2023.
+
+>>Produit et diffusé par la chaîne Chercheurs de montagnes, ce stream mensuel analyse pendant 2h30 l’actualité montagne à travers le regard croisé d’un sociologue et d’une journaliste (avec Pauline Boulet).
+
+3. *Projet Céleste*, 20 au 24 juin 2023.
+
+>>Produit et diffusé par la chaîne Chercheurs de montagnes, une équipe de quatre chercheurs de l'UGA accompagne la streameuse *Angle Droit* (top 15 national en terme d’audience) pour une randonnée itinérante de quatre jours dans le Parc national de la Vanoise afin de faire de la vulgarisation scientifique sur le changement climatique. Il s'agit de réalisé un des « Donation Goals » d'*Angle Droit* de l'édition 2022 du marathon caritatif *Z Event* dont la thématique était l'écologie (avec Raphaël Lachello, Nicolas Ellaume et Perle Charlot).
+   
+4. *La ligue des chercheur-e-s et des sciences (LCS)*, 1er et 2 décembre 2022.
+
+>>Produit et diffusé par la chaîne Chercheurs de montagnes avec l’appui du Labex ITTEM et la MSHA, ce stream événementiel de deux jours commente et analyse *in situ* un colloque scientifique international sur les transitions en montagne à la façon d’une compétition d’e-sport (avec Raphaël Lachello, avec la participation d’Enora Bruley, Emma-Sophie Mouret et Emmanuel Salim).
+
+### Spectacle vivant
+
+1. *Entre nous, les saisons*, compagnie MPDA, 2023 - 2025. Conception et mise en scène d’Alexandra Lacroix, direction musicale de Camille Delaforge, dramaturgie de Raphaëlle Blin.
