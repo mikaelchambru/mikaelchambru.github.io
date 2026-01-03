@@ -80,6 +80,6 @@ Republié dans *[Le Courrier](https://lecourrier.ch/2022/01/09/quand-la-zad-gagn
 3. *Projet Céleste*, 20 au 24 juin 2023.
 4. *La ligue des chercheur-e-s et des sciences (LCS)*, 1er et 2 décembre 2022.
 
-### Spectacle vivant
+## Spectacle vivant
 
 1. *Entre nous, les saisons*, compagnie MPDA, 2023 - 2025. Conception et mise en scène d’Alexandra Lacroix, direction musicale de Camille Delaforge, dramaturgie de Raphaëlle Blin.
