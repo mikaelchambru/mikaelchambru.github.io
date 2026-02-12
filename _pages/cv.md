@@ -17,7 +17,7 @@ Télécharger mon CV académique complet.
 * Directeur des études de la mention de master information-communication, 7 masters M1 et M2, depuis 2019.
 
 ## Principales anciennes fonctions
-* Coordinnateur scientifique de l'Observatoire sciences-société, MSH-Alpes, 2023-2025.
+* Coordinnateur scientifique de l'[Observatoire sciences-société](https://www.msh-alpes.fr/msh-alpes/observatoires/observatoire-sciences-societe-oss), MSH-Alpes, 2023-2025.
 * Responsable pédagogique du programme Citizen Campus, IDEX UGA, 2018-2020.
 
 ## Parcours professionnel
