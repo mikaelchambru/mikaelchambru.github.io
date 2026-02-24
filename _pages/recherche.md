@@ -12,7 +12,7 @@ redirect_from:
 * Programme *Communication, médiations socio-scientifiques et enjeux publics dans les territoires de montagne* , 35 k€, Labex ITTEM, 2019 - 2026.
 * Programme *Controverses en haute montagne : quand l’androsace du Dauphiné devient un objet public*, 35 k€, Labex ITTEM et Zone Atelier Alpes, 2024 - 2025.
 * Programme *Transition énergétique en tension : controverse et mobilisation socio-environnementale autour d’un projet d’activités extractives en montagne*, 5 k€, Labex ITTEM, 2023 - 2024.
-* Programme de recherche *Mobilisations socio-écologistes et controverses publiques autour du tourisme de neige*, autofinancement, 2021 - 2023.
+* Programme *Mobilisations socio-écologistes et controverses publiques autour du tourisme de neige*, autofinancement, 2021 - 2023.
 * Programme *Montagne, communication et astronomie : enjeux publics autour des sciences et du tourisme*, 19 k€, Labex ITTEM, 2019 - 2022.
 
 ## Participation scientifique 
