@@ -36,42 +36,43 @@ Republié dans *[Le Courrier](https://lecourrier.ch/2022/01/09/quand-la-zad-gagn
 
 ## Participation à une journée d’études professionnelles, conférence ou autre évènement
 
-1. « La communication des sciences : vulgariser, politiser, médiatiser », conférence, *Comité d’orientation stratégique territorial de l’EPCC Territoire de Sciences*, Grenoble, 16 décembre 2025.
-2. « Les transitions en montagne : quels défis pour l’avenir ? », table-ronde, *Galerie Eurêka - espace montagne*, Chambéry, 12 décembre 2025.
-3. « Transition en montagne : quels enjeux dans les Alpes du sud  ? », conférence-débat, *Assemblée générale Leader 2025 Alpes et Azue*, Pugnet-Théniers, 5 décembre 2025.
-4. « Ville-montagne 2050, construire ensemble un avenir souhaitable », table-ronde, *The Shifters*, Grenoble, 26 novembre 2025.
-5. « Demain, la vallée : les enjeux du foncier agricole et forestier en montagne », ciné-débat, Festival *Oh pétard !*, Buis-les-Baronnies, 27 septembre 2025.
-6. « Les impacts du projet Lyon-Turin », table-ronde, Collectif citoyen contre le Lyon-Turin Chambéry, Barberaz, 4 avril 2025.
-7. « Transitions territoriales et participation publique en montagne », Rencontre services et territoires *Participation des habitant.e.s dans les territoires et ruraux de montagne*, Les Adrets, 3 décembre 2024.
-8. « La montagne au défi : urbanisme, simplifier sans compris », Table-ronde lors du 40ème congrès de l’Association nationale des élus de montagne (ANEM), SuperDévoluy, 11 octobre 2024.
-9. « Glacier de la Girose. Versant sensible », Conférence *Demain les montagnes !*, Grenoble, 13 novembre 2024.
-10. « Production de neige en stations de ski : vers un conflit d’usages de l’eau ? », *Fête de la science*, Grenoble, 8 octobre 2024.
-11. « Comprendre et accompagner les défis socio-écologiques des forêts de montagne », *1 heure – 1 chercheur* de la Fondation Université Grenoble Alpes, Grenoble, 1er octobre 2024.
-12. « Comment bien vivre demain nos territoires de montagne ? », séminaire *Espace valléens et Avenir Montagne Ingénierie*, Moûtiers, 11 septembre 2024.
-13. « (A)ménager les glaciers alpins ? », Conférence du *Jardin du Lautaret*, Villar-d’Arène, 26 août 2024.
-14. « Transizioni in montagne : quali séide per il futoro ? / Les transitions en montagne : quels défis pour l’avenir ? », Table-ronde de lancement du programme européen Interreg France – Italie Alcotra *ESCAPE*, Bardonnechia (Italie), 20 mars 2024.
-15. « Transitions en montagne : quel avenir pour les stations de ski des Hautes Alpes ? », Table-ronde organisée par *Ram 05*, Embrum, 13 mars 2024.
-16. « Transition des territoires de montagne : quelle place pour l’agriculture face au tourisme dans le Briançonnais ? », Table-ronde organisée par *Fréquence Mistral*, Briançon, 12 mars 2024.
-17. « Dés-inventer le tourisme montagne ? Transition et conflits », Conférence du *Jardin du Lautaret*, Villar-d’Arène, 14 août 2023.
-18. « Interactions science-société au service du développement territorial », Café-science *Ecrins terre de sciences*, *Parc national des Ecrins* et *Réseau nature, science environnement*, Villar-d’Arène, 5 juin 2023.
-19. « Valorisation du patrimoine naturel & tourisme scientifique », Journée prospective *Avenir Montagne*, PETR Briançonnais, Ecrins, Guillestrois, Queyras, Puy-Saint-André, 7 avril 2023.
-20. « Quand le tourisme scientifique entre en controverse : retour sur un projet d’aménagement autour des sciences astronomiques », *Ecotraversée du Queyras*, Saint Véran, 2 novembre 2022.
-21. « Le dialogue Science-Société au prisme du GIEC », conférence-débat *Fête de la science*, Chamonix, 7 octobre 2022.
-22. « Quelle transition pour le territoire de Céüse ? », soirée-débat autour du projet *Demain Céüse : une destination nature 4 saisons*, Aix-Marseille universités, Idées de demain, Département des Hautes-Alpes et association Transition des territoires de montagne, Gap, 15 janvier 2021.
-23. « Comment faire cohabiter les actions en présence et en ligne dans les initiatives de médiation scientifique ? », rencontre professionnelle de l’*École de la médiation*, Grenoble et Paris, 10 novembre, 15 décembre 2020 et 12 janvier 2021.
-24. « Jeunes et grand public : quels nouveaux formats de la connaissance pour les informer ? », festival *Médias en Seine*, France Info et Les Echos, Paris, 19 novembre 2020.
-25. « Sciences et grand public : comment accéder aux connaissances scientifiques et échapper aux fake-news ? », *Fête de la science*, Sciences actions et Université Savoie Mont-Blanc, Chambéry, 8 octobre 2020.
-26. « Le loup et ses effets socio-environnementaux », *Ecotraversée de Belledonne*, Combe Madame, 28 juin 2020.
-27. « Communiquer les sciences : quels enjeux pour quels publics ? », Journée scientifique *De la communication scientifique à la communication grand public*, Laboratoire de psychologie et neurocognition, Grenoble, 21 juin 2019.
-28. « Communication sur l’adaptation au changement climatique : bonnes pratiques, tendances et réseau de partenaires », *Alpine partnership for local climate action*, Grenoble, 29 mai 2019.
-29. « Et dans les classes ? Sciences et esprit critique de l’école primaire à l’université », Colloque *Sciences et esprit critique, interroger les certitudes*, Maison pour la science Alpes-Dauphiné, Délégation académique aux affaires culturelles et Cellule éducation au média et information du Rectorat, Grenoble, 8 novembre 2018.
-30. « Quand la fraude s’invite dans les publications scientifiques », Festival Imaginascience *Fakes News et réveil de l’esprit critique*, CCSTI La Turbine Sciences, Annecy, 27 septembre 2018.
-31. « Les sujets brûlants de la communication scientifique », Congrès annuel de la communication scientifique suisse *Science Comm’16 – New tools, new placers,&#x20;*&#x46;ondation Sciences et Cité, Grandson (Suisse), 22 septembre 2016.
-32. « Pouvoir d’agir et engagements citoyens pour des territoires durables », colloque participatif, Anciela & Science-Po Lyon, Lyon, 2 juin 2014.
-33. « La citoyenneté active comme solution face aux défis écologiques », colloque participatif, Anciela & Science-Po Lyon, Lyon, 25 février 2013.
-34. « Par quelle voie sortir du nucléaire ? », Forum-débat, *Festival des libertés*, Bruxelles, 25 octobre 2012.
-35. « Quelles conditions pour que des échanges entre chercheurs et acteurs de la société civile aboutissent à des projets de recherche participative », Atelier-scénario, Adreca & fondation Sciences citoyennes, Saint-Martin d’Hères, 27 et 28 juin 2011.
-36. « Les médias : vecteurs d’expression, vecteurs de représentation », *Université européenne de l’engagement : (re)Trouver la capacité d’agir*, Association de la fondation étudiante pour la ville (Afev), Université Claude Bernard Lyon 1, Lyon, 24 août 2011.
+1. « Que font les controverses aux pratiques de médiation scientifique ? », conférence, *séminaire de formation INRAE sur les pratiques en médiation scientifique et controverses socio-scientifiques*, Angers, 17 février 2026.
+2. « La communication des sciences : vulgariser, politiser, médiatiser », conférence, *Comité d’orientation stratégique territorial de l’EPCC Territoire de Sciences*, Grenoble, 16 décembre 2025.
+3. « Les transitions en montagne : quels défis pour l’avenir ? », table-ronde, *Galerie Eurêka - espace montagne*, Chambéry, 12 décembre 2025.
+4. « Transition en montagne : quels enjeux dans les Alpes du sud  ? », conférence-débat, *Assemblée générale Leader 2025 Alpes et Azue*, Pugnet-Théniers, 5 décembre 2025.
+5. « Ville-montagne 2050, construire ensemble un avenir souhaitable », table-ronde, *The Shifters*, Grenoble, 26 novembre 2025.
+6. « Demain, la vallée : les enjeux du foncier agricole et forestier en montagne », ciné-débat, Festival *Oh pétard !*, Buis-les-Baronnies, 27 septembre 2025.
+7. « Les impacts du projet Lyon-Turin », table-ronde, Collectif citoyen contre le Lyon-Turin Chambéry, Barberaz, 4 avril 2025.
+8. « Transitions territoriales et participation publique en montagne », Rencontre services et territoires *Participation des habitant.e.s dans les territoires et ruraux de montagne*, Les Adrets, 3 décembre 2024.
+9. « La montagne au défi : urbanisme, simplifier sans compris », Table-ronde lors du 40ème congrès de l’Association nationale des élus de montagne (ANEM), SuperDévoluy, 11 octobre 2024.
+10. « Glacier de la Girose. Versant sensible », Conférence *Demain les montagnes !*, Grenoble, 13 novembre 2024.
+11. « Production de neige en stations de ski : vers un conflit d’usages de l’eau ? », *Fête de la science*, Grenoble, 8 octobre 2024.
+12. « Comprendre et accompagner les défis socio-écologiques des forêts de montagne », *1 heure – 1 chercheur* de la Fondation Université Grenoble Alpes, Grenoble, 1er octobre 2024.
+13. « Comment bien vivre demain nos territoires de montagne ? », séminaire *Espace valléens et Avenir Montagne Ingénierie*, Moûtiers, 11 septembre 2024.
+14. « (A)ménager les glaciers alpins ? », Conférence du *Jardin du Lautaret*, Villar-d’Arène, 26 août 2024.
+15. « Transizioni in montagne : quali séide per il futoro ? / Les transitions en montagne : quels défis pour l’avenir ? », Table-ronde de lancement du programme européen Interreg France – Italie Alcotra *ESCAPE*, Bardonnechia (Italie), 20 mars 2024.
+16. « Transitions en montagne : quel avenir pour les stations de ski des Hautes Alpes ? », Table-ronde organisée par *Ram 05*, Embrum, 13 mars 2024.
+17. « Transition des territoires de montagne : quelle place pour l’agriculture face au tourisme dans le Briançonnais ? », Table-ronde organisée par *Fréquence Mistral*, Briançon, 12 mars 2024.
+18. « Dés-inventer le tourisme montagne ? Transition et conflits », Conférence du *Jardin du Lautaret*, Villar-d’Arène, 14 août 2023.
+19. « Interactions science-société au service du développement territorial », Café-science *Ecrins terre de sciences*, *Parc national des Ecrins* et *Réseau nature, science environnement*, Villar-d’Arène, 5 juin 2023.
+20. « Valorisation du patrimoine naturel & tourisme scientifique », Journée prospective *Avenir Montagne*, PETR Briançonnais, Ecrins, Guillestrois, Queyras, Puy-Saint-André, 7 avril 2023.
+21. « Quand le tourisme scientifique entre en controverse : retour sur un projet d’aménagement autour des sciences astronomiques », *Ecotraversée du Queyras*, Saint Véran, 2 novembre 2022.
+22. « Le dialogue Science-Société au prisme du GIEC », conférence-débat *Fête de la science*, Chamonix, 7 octobre 2022.
+23. « Quelle transition pour le territoire de Céüse ? », soirée-débat autour du projet *Demain Céüse : une destination nature 4 saisons*, Aix-Marseille universités, Idées de demain, Département des Hautes-Alpes et association Transition des territoires de montagne, Gap, 15 janvier 2021.
+24. « Comment faire cohabiter les actions en présence et en ligne dans les initiatives de médiation scientifique ? », rencontre professionnelle de l’*École de la médiation*, Grenoble et Paris, 10 novembre, 15 décembre 2020 et 12 janvier 2021.
+25. « Jeunes et grand public : quels nouveaux formats de la connaissance pour les informer ? », festival *Médias en Seine*, France Info et Les Echos, Paris, 19 novembre 2020.
+26. « Sciences et grand public : comment accéder aux connaissances scientifiques et échapper aux fake-news ? », *Fête de la science*, Sciences actions et Université Savoie Mont-Blanc, Chambéry, 8 octobre 2020.
+27. « Le loup et ses effets socio-environnementaux », *Ecotraversée de Belledonne*, Combe Madame, 28 juin 2020.
+28. « Communiquer les sciences : quels enjeux pour quels publics ? », Journée scientifique *De la communication scientifique à la communication grand public*, Laboratoire de psychologie et neurocognition, Grenoble, 21 juin 2019.
+29. « Communication sur l’adaptation au changement climatique : bonnes pratiques, tendances et réseau de partenaires », *Alpine partnership for local climate action*, Grenoble, 29 mai 2019.
+30. « Et dans les classes ? Sciences et esprit critique de l’école primaire à l’université », Colloque *Sciences et esprit critique, interroger les certitudes*, Maison pour la science Alpes-Dauphiné, Délégation académique aux affaires culturelles et Cellule éducation au média et information du Rectorat, Grenoble, 8 novembre 2018.
+31. « Quand la fraude s’invite dans les publications scientifiques », Festival Imaginascience *Fakes News et réveil de l’esprit critique*, CCSTI La Turbine Sciences, Annecy, 27 septembre 2018.
+32. « Les sujets brûlants de la communication scientifique », Congrès annuel de la communication scientifique suisse *Science Comm’16 – New tools, new placers,&#x20;*&#x46;ondation Sciences et Cité, Grandson (Suisse), 22 septembre 2016.
+33. « Pouvoir d’agir et engagements citoyens pour des territoires durables », colloque participatif, Anciela & Science-Po Lyon, Lyon, 2 juin 2014.
+34. « La citoyenneté active comme solution face aux défis écologiques », colloque participatif, Anciela & Science-Po Lyon, Lyon, 25 février 2013.
+35. « Par quelle voie sortir du nucléaire ? », Forum-débat, *Festival des libertés*, Bruxelles, 25 octobre 2012.
+36. « Quelles conditions pour que des échanges entre chercheurs et acteurs de la société civile aboutissent à des projets de recherche participative », Atelier-scénario, Adreca & fondation Sciences citoyennes, Saint-Martin d’Hères, 27 et 28 juin 2011.
+37. « Les médias : vecteurs d’expression, vecteurs de représentation », *Université européenne de l’engagement : (re)Trouver la capacité d’agir*, Association de la fondation étudiante pour la ville (Afev), Université Claude Bernard Lyon 1, Lyon, 24 août 2011.
 
 ## Animation d'émission sur Twitch
 
