@@ -26,7 +26,6 @@ Télécharger mon CV académique complet.
 * Attaché temporaire d'enseignement et de recherche à l'Ecole de journalisme de Grenoble, IEP de Grenoble / Université Stendhal, 2012-2016.
 * Doctorant contractuel enseignant à l'Institut de la communication et des médias, Université Stendhal, 2009-2012.
 
-<!--
 ## Formation
 * Doctorat en sciences de l'information et de la communication, Université de Grenoble, 2014. 
   * *Communication, délibération et mouvements sociaux : L’espace public à l’épreuve du phénomène antinucléaire en France (1962-2012).*  [tel-01327929](https://theses.hal.science/tel-01327929)
