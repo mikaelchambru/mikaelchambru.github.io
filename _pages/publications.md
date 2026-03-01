@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Article dans une revue à comité de lecture
 
-1. Chambru Mikaël et Lachello Raphaël « Parvenir à couper des arbres : la territorialisation du travail forestier public dans les hautes vallées alpines (Haute-Maurienne, France) », *Natures Sciences Société*, 33-3, 2025, 292-304.
+1. Chambru Mikaël et Lachello Raphaël « Parvenir à couper des arbres : la territorialisation du travail forestier public dans les hautes vallées alpines (Haute-Maurienne, France) », *Natures Sciences Sociétés*, 33-3, 2025, 292-304.
 2. Lachello Raphaël, Chambru Mikaël et Lorenzi Noémie, « Une transition en pente douce ? Les forêts alpines et les agents ONF face aux changements globaux en Savoie », *Développement durable & territoires*, 16-2, 2025. [hal-05429046](https://hal.science/hal-05429046v1)
 3. Chambru Mikaël, « Les temporalités de la transition touristique en montagne : controverse, incommunication et délibération », *Hermès*, 96, 2025, 148-153. [hal-05429036](https://hal.science/hal-05429036)
 4. Chambru Mikaël et Picard Marion, « Faire bifurquer le tourisme hivernal ? Controverses et mobilisations socio-environnementales autour de la transition écologique dans une station alpine (La Clusaz, France) », *Mondes du Tourisme*, 25, 2024. [hal-04846118](https://hal.science/hal-04846118v1)
