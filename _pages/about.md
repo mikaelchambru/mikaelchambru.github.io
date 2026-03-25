@@ -10,7 +10,7 @@ redirect_from:
 
 Je suis maître de conférences en sciences sociales à l'Université Grenoble Alpes (UGA), enseignant à l'Institut de la communication et des médias (ICM) et chercheur au sein du Groupe de recherche sur les enjeux de la communication (GRESEC). 
 
-Coordinateur scientifique du [Laboratoire d’excellence Innovation et transitions territoriales en montagne](https://labexittem.fr) (Labex ITTEM), je suis également animateur du [Groupe régional d’expertise sur le climat Alpes-Auvergne](https://grec-alpes-auvergne.osug.fr)(GREC-AA) rattaché à l'Observatoire des sciences de l’univers de Grenoble (OSUG) et responsable pédagogique du Master Communication et culture scientifiques et techniques (CCST) de l'UGA.
+Coordinateur scientifique du [Laboratoire d’excellence Innovation et transitions territoriales en montagne](https://labexittem.fr) (Labex ITTEM), je suis également animateur du [Groupe régional d’expertise sur le climat Alpes-Auvergne](https://grec-alpes-auvergne.osug.fr)(GREC-AA) et responsable pédagogique du Master Communication et culture scientifiques et techniques (CCST) de l'UGA.
 
 Mes recherches s’inscrivent dans le domaine de la sociologie de l’environnement. J’étudie la manière dont la complexité des problèmes socio-environnementaux dans les territoires de montagne recomposent les rapports entre société et environnement. Elles se déploient selon trois perspectives analytiques : 
 1. Les controverses publiques et les mobilisations collectives sur la transition
