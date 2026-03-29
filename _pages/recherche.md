@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## Coordinnation scientifique 
-* Chaire de recherche partenariale [*Forêts alpines en transition*](https://foretalpine.hypotheses.org). 2023 - 2028.
+* Chaire de recherche partenariale [*Forêts alpines en transition*](https://foretalpine.hypotheses.org), 2023 - 2028.
 * Programme *De terre et de neige : enquête sur le métabolisme des stations de ski*, 2026 - 2027.
-* Programme *Le barrage, les militants, le territoire : trajectoire d’une infrastructure non advenue en Haute-Romanche, 2025 - 2027.
+* Programme *Le barrage, les militants, le territoire : trajectoire d’une infrastructure non advenue en Haute-Romanche*, 2025 - 2027.
 * Programme [*Communication, médiations socio-scientifiques et enjeux publics dans les territoires de montagne*](https://croscus.hypotheses.org), 2019 - 2026.
 * Programme *Controverses en haute montagne : quand l’androsace du Dauphiné devient un objet public*, 2024 - 2025.
 * Programme *Transition énergétique en tension : controverse et mobilisation socio-environnementale autour d’un projet d’activités extractives en montagne*, 2023 - 2024.
