@@ -6,7 +6,7 @@ redirect_from:
 - media.html  
 ---
 
-1. « [Municipales : en montagne, le modèle du ski résiste](https://www.ledauphine.com/elections/2026/03/27/val-d-isere-meribel-briancon-en-montagne-les-nouveaux-maires-defendent-encore-le-ski) », *Le Dauphiné Libéré*, 13 février 2026.
+1. « [Municipales : en montagne, le modèle du ski résiste](https://www.ledauphine.com/elections/2026/03/27/val-d-isere-meribel-briancon-en-montagne-les-nouveaux-maires-defendent-encore-le-ski) », *Le Dauphiné Libéré*, 28 mars 2026.
 2. « Quand les assos gèrent les stations : "l'enjeu est de maintenir une activité à forte valeur culturelle" », *Les affiches de Grenoble et du Dauphiné*, 13 février 2026.
 3. « [Des solutions technologiques en trompe-l’œil : l’industrie du ski face au défi du réchauffement climatique](https://www.ouest-france.fr/environnement/rechauffement-climatique/des-solutions-technologiques-en-trompe-lil-lindustrie-du-ski-face-au-defi-du-rechauffement-climatique-a4402ca2-b66c-11f0-9097-68e77b575996) », *Ouest France*, 14 décembre 2025.
 4. «[ Stations de moyenne montagne : il manque des débats publics sur ces questions de transition](https://www.ledauphine.com/societe/2025/12/03/stations-de-moyenne-montagne-il-manque-des-debats-publics-sur-ces-questions-de-transition) », *Le Dauphiné Libéré*, 3 décembre 2025.
