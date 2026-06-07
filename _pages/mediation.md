@@ -15,7 +15,7 @@ redirect_from:
 
 ## Article de vulgarisation
 
-1. Chambru Mikaël, « Chercheurs, chercheuses : des scientifiques sur le terrain », *Montagnes Magazine*, n°550, mai 2026, pp. 58-61.
+1. Chambru Mikaël, « [Scientifiques en montagne : quand le terrain devient laboratoire du climat](https://www.montagnes-magazine.com/actus-scientifiques-montagne-quand-terrain-devient-laboratoire-climat) », *Montagnes Magazine*, n°550, mai 2026, pp. 58-61.
 2. Chambru Mikaël et Claeys Cécilia, « Une bifurcation touristique pour une transition socio-environnementale des Alpes du Sud », Cahiers du Grec-Sud *Les sociétés face aux bouleversements climatiques. Penser ces changements en région Provence-Alpes-Côte d’Azur*, novembre 2024.
 3. Chambru Mikaël, « [“Plus haute ZAD d’Europe” : faut-il encore aménager les glaciers alpins ?](https://theconversation.com/plus-haute-zad-deurope-faut-il-encore-amenager-les-glaciers-alpins-216918) », *The Conversation*, 5 novembre 2023.
 Republié dans *[Montagnes Magazine](https://www.montagnes-magazine.com/actus-plus-haute-zad-europe-faut-il-encore-amenager-les-glaciers-alpins)* et *[Sud Ouest](https://www.sudouest.fr/environnement/plus-haute-zad-d-europe-faut-il-encore-amenager-les-glaciers-alpins-17354614.php)*, 6 novembre 2023 ; [*La Tribune*](https://www.latribune.fr/opinions/tribunes/la-plus-haute-zad-d-europe-remet-en-cause-l-amenagement-de-la-haute-montagne-982485.html), 7 novembre 2023.
