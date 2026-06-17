@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Coordinnation scientifique 
+## Coordination scientifique 
 1. Chaire de recherche partenariale [*Forêts alpines en transition*](https://foretalpine.hypotheses.org), 2023 - 2028.
 2. Programme *De terre et de neige : enquête sur le métabolisme des stations de ski*, 2026 - 2027.
 3. Programme *Le barrage, les militants, le territoire : trajectoire d’une infrastructure non advenue en Haute-Romanche*, 2025 - 2027.
