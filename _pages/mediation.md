@@ -43,7 +43,7 @@ Republié dans *[Le Courrier](https://lecourrier.ch/2022/01/09/quand-la-zad-gagn
 4. « Evolution de l'offre sur un territoire à multiples atitudes », table-ronde, festival *Après demain - l'évènement des transitions*, Aime-La Plagne, 28 mai 2026.
 5. « Que font les controverses aux pratiques de médiation scientifique ? », conférence, *séminaire de formation INRAE sur les pratiques en médiation scientifique et controverses socio-scientifiques*, Angers, 17 février 2026.
 6. « La communication des sciences : vulgariser, politiser, médiatiser », conférence, *Comité d’orientation stratégique territorial de l’EPCC Territoire de Sciences*, Grenoble, 16 décembre 2025.
-7. « Les transitions en montagne : quels défis pour l’avenir ? », table-ronde, *Galerie Eurêka - espace montagne*, Chambéry, 12 décembre 2025.
+7. « Les transitions en montagne : quels défis pour l’avenir ? », table-ronde, *Eurêka - espace montagne*, Chambéry, 12 décembre 2025.
 8. « Transition en montagne : quels enjeux dans les Alpes du sud  ? », conférence-débat, *Assemblée générale Leader 2025 Alpes et Azue*, Pugnet-Théniers, 5 décembre 2025.
 9. « Ville-montagne 2050, construire ensemble un avenir souhaitable », table-ronde, *The Shifters*, Grenoble, 26 novembre 2025.
 10. « Demain, la vallée : les enjeux du foncier agricole et forestier en montagne », ciné-débat, Festival *Oh pétard !*, Buis-les-Baronnies, 27 septembre 2025.
