@@ -9,7 +9,7 @@ redirect_from:
 1. « [En moyenne montagne, les stations de ski deviennent des "refuges climatiques"](https://www.lefigaro.fr/actualite-france/en-moyenne-montagne-les-stations-de-ski-deviennent-des-refuges-climatiques-20260721) », *Le Figaro*, 22 juillet 2026.
 2. « L'extention de Technolac fait toujours débat », *Le Dauphiné Libéré*, 18 juin 2026.
 3. « [Diversification en montagne : la question de l’anticipation pour ne pas subir](https://www.ledauphine.com/societe/2026/06/04/diversification-en-montagne-la-question-de-l-anticipation-pour-ne-pas-subir) », *Le Dauphiné Libéré*, 4 juin 2026.
-4. « Des listes citoyennes ont réussi à s'imposer localement, sauf dan les territoires où le ski alpin reste encore très ancré », *Montagne Magazine*, n°550, mai 2026, pp. 32.
+4. « Des listes citoyennes ont réussi à s'imposer localement, sauf dans les territoires où le ski alpin reste encore très ancré », *Montagne Magazine*, n°550, mai 2026, pp. 32.
 5. « [Municipales : en montagne, le modèle du ski résiste](https://www.ledauphine.com/elections/2026/03/27/val-d-isere-meribel-briancon-en-montagne-les-nouveaux-maires-defendent-encore-le-ski) », *Le Dauphiné Libéré*, 28 mars 2026.
 6. « Quand les assos gèrent les stations : "l'enjeu est de maintenir une activité à forte valeur culturelle" », *Les affiches de Grenoble et du Dauphiné*, 13 février 2026.
 7. « [Des solutions technologiques en trompe-l’œil : l’industrie du ski face au défi du réchauffement climatique](https://www.ouest-france.fr/environnement/rechauffement-climatique/des-solutions-technologiques-en-trompe-lil-lindustrie-du-ski-face-au-defi-du-rechauffement-climatique-a4402ca2-b66c-11f0-9097-68e77b575996) », *Ouest France*, 14 décembre 2025.
