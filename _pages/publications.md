@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Article dans une revue à comité de lecture
 
-1. Chambru Mikaël et Borgnet Yann, « Composer avec les crises socio-environnementales en montagne. Trajectoires touristiques et politiques publiques d’aménagement d’une haute vallée alpine (Queyras, France) », *Téoros*, 44-1, 2025.
+1. Chambru Mikaël et Borgnet Yann, « Composer avec les crises socio-environnementales en montagne : trajectoires touristiques et politiques publiques d’aménagement d’une haute vallée alpine (Queyras, France) », *Téoros*, 44-1, 2025.
 2. Chambru Mikaël et Lachello Raphaël « Parvenir à couper des arbres : la territorialisation du travail forestier public dans les hautes vallées alpines (Haute-Maurienne, France) », *Natures Sciences Sociétés*, 33-3, 2025, 292-304.
 3. Lachello Raphaël, Chambru Mikaël et Lorenzi Noémie, « Une transition en pente douce ? Les forêts alpines et les agents ONF face aux changements globaux en Savoie », *Développement durable & territoires*, 16-2, 2025. [hal-05429046](https://hal.science/hal-05429046v1)
 4. Chambru Mikaël, « Les temporalités de la transition touristique en montagne : controverse, incommunication et délibération », *Hermès*, 96, 2025, 148-153. [hal-05429036](https://hal.science/hal-05429036)
