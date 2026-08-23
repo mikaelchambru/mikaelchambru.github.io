@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Article dans une revue à comité de lecture
 
-1. Chambru Mikaël et Lachello Raphaël, « Tenir dans la pente : une écologie du travail ouvrier forestier en montagne », Techniques & Culture, 2026, à paraître.
+1. Chambru Mikaël et Lachello Raphaël, « Tenir dans la pente : une écologie du travail ouvrier forestier en montagne », *Techniques & Culture*, 2026, à paraître.
 2. Chambru Mikaël et Henry Mathilde, « Un téléphérique controversé : incertitudes et enjeux de la transition touristique en montagne (La Grave, France) », *Espaces et sociétés*, 2026, à paraître.
 3. Chambru Mikaël et Borgnet Yann, « Composer avec les crises socio-environnementales en montagne : trajectoires touristiques et politiques publiques d’aménagement d’une haute vallée alpine (Queyras, France) », *Téoros*, 44-1, 2025.
 4. Chambru Mikaël et Lachello Raphaël « Parvenir à couper des arbres : la territorialisation du travail forestier public dans les hautes vallées alpines (Haute-Maurienne, France) », *Natures Sciences Sociétés*, 33-3, 2025, 292-304.
