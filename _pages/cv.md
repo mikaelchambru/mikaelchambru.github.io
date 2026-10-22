@@ -17,7 +17,7 @@ Télécharger mon CV académique complet.
 
 ## Principales anciennes fonctions
 * Animateur du [Groupe régional d’expertise sur le climat Alpes-Auvergne](https://grec-alpes-auvergne.osug.fr) (GREC-AA), 2025-2026.
-* Coordinnateur scientifique de l'[Observatoire sciences-société](https://www.msh-alpes.fr/msh-alpes/observatoires/observatoire-sciences-societe-oss), MSH-Alpes, 2023-2025.
+* Coordinnateur scientifique de l'[Observatoire sciences-société](https://www.msh-alpes.fr/msh-alpes/observatoires/observatoire-sciences-societe-oss), MSH-Alpes, 2023-2026.
 * Responsable pédagogique du programme Citizen Campus, IDEX UGA, 2018-2020.
 
 ## Parcours professionnel
